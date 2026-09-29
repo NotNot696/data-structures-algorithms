@@ -14,7 +14,7 @@
 | **جدول هش** | پیاده‌سازی با روش زنجیره‌ای (Chaining) |
 | **درخت‌ها** | درخت باینری، BST، AVL، Trie |
 | **هیپ (Heap)** | MaxHeap، MinHeap، عملیات‌های اصلی |
-| **گراف** | گراف بدون وزن، گراف وزن‌دار، BFS، DFS، تشخیص دور، دیکسترا، پریم |
+| **گراف** | گراف بدون وزن، گراف وزن‌دار، BFS، DFS، تشخیص دور،هاول حکیمی، دیکسترا، پریم |
 | **مرتب‌سازی** | Bubble، Selection، Insertion، Merge، Quick |
 | **جستجو** | خطی، دودویی، سه‌گانه |
 
@@ -49,7 +49,8 @@ data-structures-algorithms/
 │   ├── graph.py
 │   ├── weighted_graph.py
 │   ├── dijkstra.py
-│   └── prim.py
+│   ├── prim.py
+│   └── havel_hakimi.py
 ├── sorting/
 │   ├── bubble_sort.py
 │   ├── selection_sort.py
