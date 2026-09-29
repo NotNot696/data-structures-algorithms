@@ -78,6 +78,7 @@ data-structures-algorithms/
 python sorting/bubble_sort.py
 python searching/binary_search.py
 python graphs/dijkstra.py
+python graphs/havel_hakimi.py
 ```
 
 برای اجرای تست‌ها:
